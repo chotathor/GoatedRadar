@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.goatedradar.mesh.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.goatedradar.mesh.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.goatedradar.mesh.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.goatedradar.mesh.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.goatedradar.mesh.app-merged_res-36:/drawable_ic_foreground.xml.flat",
+        "source": "com.goatedradar.mesh.app-main-38:/drawable/ic_foreground.xml"
+    }
+]
